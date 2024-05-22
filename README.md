@@ -1,16 +1,14 @@
-## Hi there 👋
+### bos vindas ao meu perfil  👋
 
-<!--
-**luizgustavodantas/luizgustavodantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e luiz gustavo dantas
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou estudando na alura 
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizando esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
+
+### voce pode entrar em contato comigo
+
+luizgustavodantasdasilva1@gmail.com
+
+luizgustavodantas_
